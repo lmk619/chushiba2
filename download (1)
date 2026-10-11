@@ -1,0 +1,12 @@
+# 密钥：绝对不要上传
+.env
+.env.*
+!.env.example
+
+# 系统与依赖
+.DS_Store
+node_modules/
+
+# 本地预览文件
+preview-*.html
+先看我-上传与部署步骤.md
